@@ -1,0 +1,1 @@
+## PDE: Parabolic equation - implicit method (Crank - Nicholson method)
