@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ \\frac{\\partial^2 f}{\\partial x^2} = \\frac{\\partial f}{\\partial t} = 0 $$ $$ when f(0,t) = 0, f(20,t) = 10, f(x,0) = 2 $$ $$ \\Delta x = h = 5 $$ $$ Take\\ r = 1 $$ $$ Find(x, 25)\\ at\\ x=5. $$" ,
+      "qid": 1,
+      "option_a": "2.161",
+      "option_b": "5.213",
+      "option_c": "1.214",
+      "option_d": "7.141",
+      "correct_option": "c"
+   },
+   {
+      "question": "$$ \\frac{\\partial^2 f}{\\partial x^2} = \\frac{\\partial f}{\\partial t} = 0 $$ $$ when f(0,t) = 0, f(20,t) = 10, f(x,0) = 2 $$ $$ \\Delta x = h = 5 $$ $$ Take\\ r = 1 $$ $$ Find(x, 25)\\ at\\ x=10. $$",
+      "qid": 2,
+      "option_a": "7.098",
+      "option_b": "2.857",
+      "option_c": "9.334",
+      "option_d": "3.195",
+      "correct_option": "b"
+   }
+]
